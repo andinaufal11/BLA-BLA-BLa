@@ -1,3 +1,6 @@
+//Nama NIM
+//Nama NIM
+
 package main
 
 import (
